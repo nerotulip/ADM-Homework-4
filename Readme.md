@@ -13,4 +13,6 @@ For the second part we were given a _.txt file_ containing millions of rows, com
 
 ### Side Notes
 
-Due to the fact that the text file given to us (Part 2 of the hw) was hugely heavy (2.2 GB) and too hard to handle for our Mac/PCs, we decided to cut it down to one third of the size, picking one row every three and writing them down to a new file. 
+Due to the fact that the text file given to us (Part 2 of the hw) was hugely heavy (2.2 GB) and too hard to handle for our Mac/PCs, we decided to cut it down to one third of the size, picking one row every three and writing them down to a new file.
+
+Our work is presented in two separate Jupyter Notebooks, one for each part of the assignment.
