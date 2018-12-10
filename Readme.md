@@ -1,7 +1,7 @@
 
 # Homework 4 - Group 21
 
-This repository contains the results of the [__Homework 4__](https://github.com/CriMenghini/ADM-2018/tree/master/Homework_4) of Algorithmic Methods of Data Mining. The collaborators of this homework were __Basso Mattias__ and __Falconi Cristina__, unfortunately the third member -  Omid Ghamiloo - did not reply to our messages, and did not send any message to us in the following two weeks.
+This repository contains the results of the [__Homework 4__](https://github.com/CriMenghini/ADM-2018/tree/master/Homework_4) of Algorithmic Methods of Data Mining. The collaborators of this homework were __Basso Mattias__ and __Falconi Cristina__.
 
 ## Part 1 - Web Scraping / Clustering
 
